@@ -1,0 +1,297 @@
+{
+ "updated": "23/10/2026 01:13",
+ "range": "13/10–23/10",
+ "summary": {
+  "pairs": 22,
+  "need": 10,
+  "half": 6,
+  "both": 4,
+  "done": 2,
+  "saving": 192,
+  "verMissing": 6
+ },
+ "gom": [
+  {
+   "group": "Gom dở",
+   "sku": "OHO151001TTTX",
+   "product": "Soccer Ball",
+   "account": "Verify 007",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video 1 đơn (ROAS 5.89) sau $9.01, Ảnh chưa đơn sau $10.02. Camp Video đã có 2 ad Image → chỉ còn tắt camp Ảnh.",
+   "keepCamp": "22/10 OHO151001TTTX-26-AI ReelFB · $9.01 · 1 đơn · ROAS 5.89 · lãi +$29.42",
+   "offCamp": "22/10 PR-OHO151001TTTX - Soccer Ball Image · $10.02 · 0 đơn · $12/ngày",
+   "scale": "Đã ở $100 (mốc cao nhất), mới 1 đơn → giữ, chưa tăng."
+  },
+  {
+   "group": "Gom dở",
+   "sku": "OHO131001LGHT",
+   "product": "Sweatpants",
+   "account": "Verify 007",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Đã đánh dấu gom 22/10, camp Video có ad Image nhưng camp Ảnh vẫn ACTIVE. Video 10 đơn (ROAS 2.68), Ảnh chưa đơn sau $33.91.",
+   "keepCamp": "17/10 OHO131001LGHT-26-AI ReelFB · $257.12 · 10 đơn · ROAS 2.68 · lãi +$221.57",
+   "offCamp": "20/10 PR-OHO131001LGHT Image · $33.91 · 0 đơn · $12/ngày",
+   "scale": "Đã $100 → giữ, theo dõi ổn định rồi mới nhân camp."
+  },
+  {
+   "group": "Gom dở",
+   "sku": "COP181002TTBN",
+   "product": "Notebook With Pen Set",
+   "account": "Verify 015",
+   "keep": "Ảnh",
+   "level": "Chắc",
+   "why": "Đã đánh dấu gom 22/10 nhưng camp Video vẫn ACTIVE. Ảnh 2 đơn (ROAS 4.90), Video chưa đơn Shopify sau $31.48.",
+   "keepCamp": "20/10 PR-COP181002TTBN Image · $36.88 · 2 đơn · ROAS 4.90 · lãi +$55.43",
+   "offCamp": "20/10 COP181002TTBN-26-AI ReelFB · $31.48 · 0 đơn · $12/ngày",
+   "scale": "Tắt xong tăng $12 → $25."
+  },
+  {
+   "group": "Gom dở",
+   "sku": "COP181001TTBN",
+   "product": "Leather Clipboard",
+   "account": "Verify 015",
+   "keep": "Ảnh",
+   "level": "Chắc",
+   "why": "Đã đánh dấu gom 22/10 nhưng camp Video vẫn ACTIVE. Ảnh 1 đơn (ROAS 0.57), Video chưa đơn sau $39.85.",
+   "keepCamp": "20/10 PR-COP181001TTBN Image · $37.92 · 1 đơn · ROAS 0.57 · lãi −$28.56",
+   "offCamp": "20/10 COP181001TTBN-26-AI ReelFB · $39.85 · 0 đơn · $12/ngày",
+   "scale": "ROAS < 1 → gom xong theo dõi, chưa scale."
+  },
+  {
+   "group": "Gom dở",
+   "sku": "LAT091005AMBN",
+   "product": "Stocking",
+   "account": "Verify 027",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Đã đánh dấu gom 22/10 nhưng camp Ảnh vẫn ACTIVE. Video 1 đơn (ROAS 0.84), Ảnh chưa đơn sau $34.24.",
+   "keepCamp": "20/10 LAT091005AMBN-26-AI ReelFB · $36.44 · 1 đơn · ROAS 0.84 · lãi −$14.98",
+   "offCamp": "20/10 PR-LAT091005AMBN Image · $34.24 · 0 đơn · $12/ngày",
+   "scale": "ROAS < 1 → gom xong theo dõi, chưa scale."
+  },
+  {
+   "group": "Gom dở",
+   "sku": "DAN161002LITL",
+   "product": "Jewelry Dish_FULL",
+   "account": "Verify 001",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Đã đánh dấu gom 22/10 nhưng camp Ảnh vẫn ACTIVE. Video 1 đơn (ROAS 1.66), Ảnh chưa đơn sau $14.86.",
+   "keepCamp": "20/10 DAN161002LITL-26-AI ReelFB · $28.52 · 1 đơn · ROAS 1.66 · lãi +$2.95",
+   "offCamp": "21/10 PR-DAN161002LITL Image · $14.86 · 0 đơn · $12/ngày",
+   "scale": "Tắt xong tăng $12 → $25."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "OHO171001AOBN",
+   "product": "Hardcover Journal",
+   "account": "Verify 007",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video 3 đơn (ROAS 2.44), Ảnh chưa đơn sau $6.56 (0 click).",
+   "keepCamp": "21/10 OHO171001AOBN-26-AI ReelFB · $58.58 · 3 đơn · ROAS 2.44 · lãi +$34.36",
+   "offCamp": "22/10 PR-OHO171001AOBN Image · $6.56 · 0 đơn · $12/ngày",
+   "scale": "Gom xong tăng $39 → $50."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP171004TTBN",
+   "product": "Leather Journal",
+   "account": "Verify 015",
+   "keep": "Ảnh",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Ảnh 2 ATC ($4.76/ATC) sau $9.52, Video 0 ATC sau $40.02.",
+   "keepCamp": "22/10 PR-COP171004TTBN Image · $9.52 · 0 đơn · lãi −$9.52",
+   "offCamp": "20/10 COP171004TTBN-26-AI ReelFB · $40.02 · 0 đơn · $12/ngày",
+   "scale": "Chưa đơn → chưa scale."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "YOG191001LGKL",
+   "product": "Custom Shaped Glass Ornament",
+   "account": "Verify 009",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 1 ATC ($8.96/ATC), Ảnh 0 ATC sau $7.27.",
+   "keepCamp": "22/10 YOG191001LGKL-26-AI ReelFB · $8.96 · 0 đơn · lãi −$8.96",
+   "offCamp": "22/10 PR-YOG191001LGKL Image · $7.27 · 0 đơn · $12/ngày",
+   "scale": "Chưa đơn → chưa scale."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "CAM191002LNKL",
+   "product": "Custom Shaped Metal Sign",
+   "account": "Verify 010",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; mỗi bên 1 ATC, Video $5.94/ATC rẻ hơn Ảnh $8.94/ATC.",
+   "keepCamp": "22/10 CAM191002LNKL-26-AI ReelFB · $5.94 · 0 đơn · lãi −$5.94",
+   "offCamp": "22/10 PR-CAM191002LNKL Image · $8.94 · 0 đơn · $12/ngày",
+   "scale": "Chưa đơn → chưa scale."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRP201002HUKL",
+   "product": "Pottery Mug",
+   "account": "Verify 010",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 2 ATC ($3.42/ATC), Ảnh 0 ATC sau $7.72.",
+   "keepCamp": "22/10 GRP201002HUKL-26-AI ReelFB · $6.83 · 0 đơn · lãi −$6.83",
+   "offCamp": "22/10 PR-GRP201002HUKL Image · $7.72 · 0 đơn · $12/ngày",
+   "scale": "Chưa đơn → chưa scale."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "MMR131001HUTL",
+   "product": "1-Layer Wooden Ornament With Tag",
+   "account": "Verify 027",
+   "keep": "Video",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR Video 1.41% (9 click) vs Ảnh 0.41% (1 click).",
+   "keepCamp": "21/10 MMR131001HUTL-26-AI ReelFB · $23.17 · 0 đơn · lãi −$23.17",
+   "offCamp": "22/10 PR-MMR131001HUTL - 1-Layer Wooden Ornament With Tag Image · $8.85 · 0 đơn · $12/ngày",
+   "scale": "Có thể chờ thêm 1 ngày."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "XMA171004GATL",
+   "product": "1-Layer Wooden Ornament With Tag",
+   "account": "Verify 032",
+   "keep": "Ảnh",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR Ảnh 0.68% (4 click) vs Video 0% (0 click, mới $3.35).",
+   "keepCamp": "21/10 PR-XMA171004GATL - 1-Layer Wooden Ornament With Tag Image · $18.09 · 0 đơn · lãi −$18.09",
+   "offCamp": "22/10 XMA171004GATL-26-AI ReelFB · $3.35 · 0 đơn · $12/ngày",
+   "scale": "Video data quá ít, có thể chờ thêm 1 ngày."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COW141002PNTL",
+   "product": "Pottery Mug_FULL",
+   "account": "Verify 009",
+   "keep": "Ảnh",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR Ảnh 2.01% (3 click) vs Video 0% (0 click).",
+   "keepCamp": "22/10 PR-COW141002PNTL Image · $5.90 · 0 đơn · lãi −$5.90",
+   "offCamp": "22/10 COW141002PNTL-26-AI ReelFB · $6.68 · 0 đơn · $12/ngày",
+   "scale": "Có thể chờ thêm 1 ngày."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM171001UABN",
+   "product": "Crewneck Cardigan",
+   "account": "Verify 006",
+   "keep": "Ảnh",
+   "level": "Ngang nhau",
+   "why": "Chưa ATC; CTR Ảnh 2.23% vs Video 2.03%, nghiêng Ảnh (Video đã tiêu $32.54 chưa ATC).",
+   "keepCamp": "22/10 PR-GRM171001UABN Image · $11.09 · 0 đơn · lãi −$11.09",
+   "offCamp": "20/10 GRM171001UABN-26-AI ReelFB · $32.54 · 0 đơn · $12/ngày",
+   "scale": "Gom bên nào cũng được."
+  },
+  {
+   "group": "Cần gom",
+   "sku": "OHO201001UAHT",
+   "product": "Fleece Hoodie",
+   "account": "Verify 007",
+   "keep": "Ảnh",
+   "level": "Ngang nhau",
+   "why": "Chưa ATC; CTR Ảnh 1.85% vs Video 1.48%, nghiêng Ảnh.",
+   "keepCamp": "22/10 PR-OHO201001UAHT Image · $8.74 · 0 đơn · lãi −$8.74",
+   "offCamp": "22/10 OHO201001UAHT-26-AI ReelFB · $6.49 · 0 đơn · $12/ngày",
+   "scale": "Gom bên nào cũng được."
+  }
+ ],
+ "ver": [
+  {
+   "sku": "MUC121001LNTX",
+   "ver": "v3",
+   "pillow": "TH-MUC121001LNTX-26-AI-v3 ReelFB (19/10) · $45.41 · 2 đơn · ROAS 2.08; v3 cũng đang chạy trong QD-MUC121001LNTX-26-v2-AI ReelFB ($240.61 · 8 đơn · ROAS 1.81)",
+   "missing": [
+    "Camp chính 16/10 MUC121001LNTX-AI ReelFB · $799/ngày · đang có v1, v2",
+    "Camp scale 17/10 MUC121001LNTX-AI ReelFB - auto EEA · $100/ngày · v1, v2"
+   ]
+  },
+  {
+   "sku": "SIB041004HUTL",
+   "ver": "v2–v5",
+   "pillow": "21/10 SIB041004HUTL-25-v3 ReelFB · $210.31 · 3 đơn · ROAS 1.22",
+   "missing": [
+    "Camp chính 10/09 - SIB041004HUTL site MO Test Content TOF · $200/ngày · chỉ v1 (camp site MO)"
+   ]
+  },
+  {
+   "sku": "COW100901HUTL",
+   "ver": "v4–v6",
+   "pillow": "19/10 PT-COW100901HUTL-26-v6-AI ReelFB · $72.19 · 0 đơn · ROAS 0 (gối đầu chưa ra đơn)",
+   "missing": [
+    "Camp chính 18/09 COW100901HUTL-26-AI ReelFB · $200/ngày · chỉ v1"
+   ]
+  },
+  {
+   "sku": "CHR170401PAHN",
+   "ver": "v2",
+   "pillow": "22/10 PT-CHR170401PAHN-26-v2-AI-LNG ReelFB · $7.72 · 0 đơn (mới lên)",
+   "missing": [
+    "Camp chính 24/04 CHR170401PAHN-26-AI ReelFB · $500/ngày · v1",
+    "Camp scale 29/09 CHR170401PAHN-26-AI ReelFB - TT WW · $150/ngày · v1"
+   ]
+  },
+  {
+   "sku": "MMR121002DPTL",
+   "ver": "v2",
+   "pillow": "22/10 TH-MMR121002DPTL-26-AI-v2 ReelFB · $8.23 · 0 đơn (mới lên; camp chính đã có v2)",
+   "missing": [
+    "Camp scale 16/10 MMR121002DPTL-26-AI ReelFB - auto WW · $100/ngày · v1"
+   ]
+  },
+  {
+   "sku": "FRI180603PAHN",
+   "ver": "v33",
+   "pillow": "22/10 QD-fri180603pahn-26-v33-AI ReelFB · $5.47 · 0 đơn (mới lên)",
+   "missing": [
+    "Camp scale 4/7 FRI180603PAHN-v7(v8-MD) ReelFB TT WW · $200/ngày · v1, v2, v3, v19, v20",
+    "Camp scale 2/7 FRI180603PAHN ReelFB TT WW (ko có US) · $210/ngày · v1, v2, v3, v20"
+   ]
+  }
+ ],
+ "both": [
+  {
+   "sku": "GRM151001LIHT",
+   "product": "Shirt",
+   "img": "1 đơn · ROAS 1.29",
+   "vid": "24 đơn · ROAS 1.87",
+   "low": false
+  },
+  {
+   "sku": "OHO161006TTHN",
+   "product": "Leather Journal",
+   "img": "7 đơn · ROAS 2.01",
+   "vid": "1 đơn · ROAS 2.04",
+   "low": false
+  },
+  {
+   "sku": "OSP161001TTHT",
+   "product": "Colorful Embroidered Socks",
+   "img": "1 đơn · ROAS 0.80",
+   "vid": "3 đơn · ROAS 0.99",
+   "low": true
+  },
+  {
+   "sku": "MUC091003UATX",
+   "product": "Tumbler Cup",
+   "img": "1 đơn · ROAS 2.24",
+   "vid": "1 đơn · ROAS 0.57",
+   "low": false
+  }
+ ],
+ "notes": [
+  "Spend/đơn của ver = số cả camp gối đầu (Shopify).",
+  "Chưa check được \"ver không cắn tiền\" (insight theo ad trả spend 0).",
+  "SIB151001GAHN: đã đánh dấu giữ Ảnh nhưng cả 2 camp vẫn ACTIVE, data nay nghiêng Video."
+ ],
+ "type": "gomtest",
+ "title": "Gom test Ảnh vs Video"
+}

@@ -1,0 +1,10 @@
+{
+ "tasks": [
+  {
+   "id": "gom-test",
+   "title": "Gom test Ảnh vs Video",
+   "file": "data/gom-test.json",
+   "schedule": "22h40 · 02h40 · 06h40 · 10h40 · 14h40"
+  }
+ ]
+}
