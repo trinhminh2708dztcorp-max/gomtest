@@ -139,8 +139,8 @@ document.addEventListener('click',function(e){
     var sku=t.dataset.done;
     if(done[sku]){delete done[sku];save();render();return}
     done[sku]=1;save();render();
-    // báo cho tác vụ biết: mở mail soạn sẵn gửi cho chính Minh, tác vụ đọc mail này để không nhắc lại
-    location.href='mailto:'+MAIL+'?subject='+encodeURIComponent('[Gom done] '+sku)+'&body='+encodeURIComponent('Đã gom '+sku);
+    // báo cho tác vụ biết: mở Gmail (web) soạn sẵn mail gửi cho chính Minh, không mở Outlook; tác vụ đọc mail này để không nhắc lại
+    window.open('https://mail.google.com/mail/?authuser='+encodeURIComponent(MAIL)+'&view=cm&fs=1&to='+encodeURIComponent(MAIL)+'&su='+encodeURIComponent('[Gom done] '+sku)+'&body='+encodeURIComponent('Đã gom '+sku),'_blank');
   }
 });
 document.getElementById('q').addEventListener('input',render);
