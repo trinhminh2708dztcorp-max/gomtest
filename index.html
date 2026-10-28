@@ -112,7 +112,7 @@ function renderGom(){
         '<div class="dec '+lvClass(g.level)+'">Giữ '+esc(g.keep)+' · '+esc(g.level)+'</div><div class="why">'+esc(g.why)+'</div>'+
         '<div class="rows"><span class="k">Giữ:</span> '+esc(g.keepCamp)+'<br><span class="o">Tắt:</span> '+esc(g.offCamp)+'<br><span class="s">Scale:</span> '+esc(g.scale)+'</div>'+
         '<div class="act"><a class="p" target="_blank" rel="noopener" href="'+ADMIN+encodeURIComponent(g.sku)+'">Tắt camp trên admin ↗</a>'+
-        '<button class="g" data-done="'+esc(g.sku)+'">'+(isDone?'Bỏ đánh dấu':'Đánh dấu đã gom')+'</button></div></div>';
+        '<button class="g" data-done="'+esc(g.sku)+'">'+(isDone?'Hiện lại':'Ẩn tạm')+'</button></div></div>';
     });
   } else if(tab==='ver'){
     D.ver.filter(hit).forEach(function(v){
@@ -139,8 +139,7 @@ document.addEventListener('click',function(e){
     var sku=t.dataset.done;
     if(done[sku]){delete done[sku];save();render();return}
     done[sku]=1;save();render();
-    // báo cho tác vụ biết: mở Gmail (web) soạn sẵn mail gửi cho chính Minh, không mở Outlook; tác vụ đọc mail này để không nhắc lại
-    window.open('https://mail.google.com/mail/?authuser='+encodeURIComponent(MAIL)+'&view=cm&fs=1&to='+encodeURIComponent(MAIL)+'&su='+encodeURIComponent('[Gom done] '+sku)+'&body='+encodeURIComponent('Đã gom '+sku),'_blank');
+    // không cần gửi mail: lần quét sau tự nhận SKU đã gom từ data (camp tắt / camp đã chứa cả 2 loại ad)
   }
 });
 document.getElementById('q').addEventListener('input',render);
