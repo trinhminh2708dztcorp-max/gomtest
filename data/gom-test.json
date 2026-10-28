@@ -1,290 +1,711 @@
 {
  "type": "gomtest",
  "title": "Gom test Ảnh vs Video",
- "updated": "25/10/2026 16:45",
- "range": "15/10–25/10",
+ "updated": "28/10/2026 11:25",
+ "range": "18/10–28/10",
  "summary": {
-  "pairs": 17,
-  "need": 8,
-  "half": 6,
-  "both": 1,
-  "done": 2,
-  "saving": 176,
-  "verMissing": 11
+  "pairs": 49,
+  "need": 42,
+  "half": 2,
+  "both": 5,
+  "done": 0,
+  "saving": 528,
+  "verMissing": 14
  },
  "gom": [
   {
    "group": "Gom dở",
-   "sku": "GRM151001LIHT",
-   "product": "Shirt",
-   "account": "Verify 006",
+   "sku": "COW201001AOHN",
+   "product": "Family Acrylic Ornament",
+   "account": "",
+   "keep": "Ảnh",
+   "level": "Chắc",
+   "why": "Cả 2 camp đều đã chạy ad Ảnh + Video; Ảnh có 7 đơn (ROAS 1.11), Video chưa đơn — chỉ còn tắt camp Video",
+   "keepCamp": "23/10 PR-COW201001AOHN Image · $196 · 7 đơn · ROAS 1.11 · lãi -$54",
+   "offCamp": "27/10 COW201001AOHN-26-AI ReelFB · $13 · 0 đơn · $12/ngày",
+   "scale": "Lãi âm → gom xong theo dõi, chưa scale"
+  },
+  {
+   "group": "Gom dở",
+   "sku": "COP231002AMBN",
+   "product": "Ceramic Ornament",
+   "account": "",
+   "keep": "Ảnh",
+   "level": "Chắc",
+   "why": "Camp Ảnh đã chứa ad video; Ảnh 1 đơn (ROAS 1.51), Video chưa đơn sau $29 — chỉ còn tắt camp Video",
+   "keepCamp": "27/10 PR-COP231002AMBN Image · $24 · 1 đơn · ROAS 1.51",
+   "offCamp": "25/10 COP231002AMBN-26-AI ReelFB · $29 · 0 đơn",
+   "scale": "Có đơn, ROAS > 1 → gom xong tăng 1 mốc ($12 → 25)"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "OHO201001LIBN",
+   "product": "Paddle Cutting Board",
+   "account": "",
    "keep": "Video",
    "level": "Chắc",
-   "why": "Camp Video đã chứa cả ad Ảnh; Video 60 đơn ROAS 1.65 vs Ảnh 2 đơn — chỉ còn tắt camp Ảnh cũ",
-   "keepCamp": "19/10 GRM151001LIHT-26-AI ReelFB · $1,686.69 · 60 đơn · ROAS 1.65 · lãi -$91",
-   "offCamp": "20/10 PR-GRM151001LIHT Image · $60.19 · 2 đơn · $12/ngày",
-   "scale": "ROAS > 1 nhưng lãi âm → giữ $200/ngày, theo dõi, chưa scale"
+   "why": "Video có 146 đơn (ROAS 1.77), Ảnh chưa đơn sau $13",
+   "keepCamp": "23/10 OHO201001LIBN-26-AI ReelFB · $5,174 · 146 đơn · ROAS 1.77 · lãi $691 · $750/ngày",
+   "offCamp": "27/10 PR-OHO201001LIBN Image · $13 · 0 đơn · $12/ngày",
+   "scale": "Có lãi → sau khi gom tăng 1 mốc"
   },
   {
-   "group": "Gom dở",
-   "sku": "OHO161006TTHN",
-   "product": "Leather Journal",
-   "account": "Verify 007",
-   "keep": "Ảnh",
+   "group": "Cần gom",
+   "sku": "XMA201001CBKL",
+   "product": "Doormat",
+   "account": "",
+   "keep": "Video",
    "level": "Chắc",
-   "why": "Camp Ảnh đã chứa ad video; Ảnh 18 đơn ROAS 1.16 vs Video 2 đơn — chỉ còn tắt camp Video cũ",
-   "keepCamp": "21/10 PR-OHO161006TTHN Image · $671.87 · 18 đơn · ROAS 1.16 · lãi -$132",
-   "offCamp": "21/10 OHO161006TTHN-26-AI ReelFB · $44.42 · 2 đơn · $12/ngày",
-   "scale": "Lãi âm → giữ $25/ngày, theo dõi, chưa scale"
+   "why": "Video có 16 đơn (ROAS 2.25), Ảnh chưa đơn sau $27",
+   "keepCamp": "23/10 XMA201001CBKL-26-AI ReelFB · $330 · 16 đơn · ROAS 2.25 · lãi $126 · $399/ngày",
+   "offCamp": "26/10 PR-XMA201001CBKL Image · $27 · 0 đơn · $12/ngày",
+   "scale": "Có lãi → sau khi gom tăng 1 mốc"
   },
   {
-   "group": "Gom dở",
-   "sku": "BOO211004AMHN",
-   "product": "Mug",
-   "account": "Verify 002",
-   "keep": "Ảnh",
+   "group": "Cần gom",
+   "sku": "COP201003TTBN",
+   "product": "Notebook With Pen Set",
+   "account": "",
+   "keep": "Video",
    "level": "Chắc",
-   "why": "Camp Ảnh đã chứa ad video; Ảnh 2 đơn vs Video 0 đơn/3 ATC ($21.76) — chỉ còn tắt camp Video cũ",
-   "keepCamp": "23/10 PR-BOO211004AMHN Image · $131.21 · 2 đơn · ROAS 0.65 · lãi -$82",
-   "offCamp": "23/10 BOO211004AMHN-26-AI ReelFB (Verify 052) · $21.76 · 0 đơn · $12/ngày",
+   "why": "Video có 1 đơn (ROAS 0.16), Ảnh chưa đơn sau $14",
+   "keepCamp": "23/10 COP201003TTBN-26-AI ReelFB · $202 · 1 đơn · ROAS 0.16 · lãi -$189",
+   "offCamp": "27/10 PR-COP201003TTBN Image · $14 · 0 đơn · $12/ngày",
    "scale": "ROAS < 1 → gom xong theo dõi, chưa scale"
   },
   {
-   "group": "Gom dở",
-   "sku": "COW201001AOHN",
-   "product": "Family Acrylic Ornament",
-   "account": "Verify 009",
+   "group": "Cần gom",
+   "sku": "XMA211002NATL",
+   "product": "Cookie Stamp",
+   "account": "",
    "keep": "Ảnh",
    "level": "Chắc",
-   "why": "Cả 2 camp đều đã chứa ad Ảnh + Video; Ảnh ROAS 1.01 vs Video 0.89 — tắt camp Video trùng",
-   "keepCamp": "23/10 PR-COW201001AOHN Image · $64.80 · 2 đơn · ROAS 1.01 · lãi -$21",
-   "offCamp": "23/10 COW201001AOHN-26-AI ReelFB (Verify 052) · $99.83 · 3 đơn · $20/ngày",
-   "scale": "Lãi âm → giữ $50/ngày, theo dõi, chưa scale"
+   "why": "Ảnh có 8 đơn (ROAS 1.39), Video chưa đơn sau $25",
+   "keepCamp": "23/10 PR-XMA211002NATL - Cookie Stamp Image · $200 · 8 đơn · ROAS 1.39 · lãi -$31",
+   "offCamp": "26/10 XMA211002NATL-26-AI ReelFB · $25 · 0 đơn · $12/ngày",
+   "scale": "Lãi âm → gom xong theo dõi, chưa scale"
   },
   {
-   "group": "Gom dở",
-   "sku": "GRP201002LGKL",
-   "product": "Ugly Sweater",
-   "account": "Verify 010",
-   "keep": "Ảnh",
+   "group": "Cần gom",
+   "sku": "FRI241001LNTP",
+   "product": "Ceramic Book Mug",
+   "account": "",
+   "keep": "Video",
    "level": "Chắc",
-   "why": "Camp Ảnh đã chứa ad video; Ảnh 1 đơn ROAS 1.55 vs Video 1 đơn ($10.58) — chỉ còn tắt camp Video",
-   "keepCamp": "23/10 PR-GRP201002LGKL Image · $69.72 · 1 đơn · ROAS 1.55 · lãi -$10",
-   "offCamp": "24/10 GRP201002LGKL-26-AI ReelFB · $10.58 · 1 đơn · $12/ngày",
-   "scale": "Lãi âm → giữ $78/ngày, theo dõi, chưa scale"
+   "why": "Video có 4 đơn (ROAS 1.85), Ảnh chưa đơn sau $10",
+   "keepCamp": "24/10 FRI241001LNTP-26-AI ReelFB · $175 · 4 đơn · ROAS 1.85 · lãi $27 · $50/ngày",
+   "offCamp": "27/10 PR-FRI241001LNTP Image · $10 · 0 đơn · $12/ngày",
+   "scale": "Có lãi → sau khi gom tăng 1 mốc ($50 → 100)"
   },
   {
-   "group": "Gom dở",
-   "sku": "COW141002PNTL",
-   "product": "Pottery Mug_FULL",
-   "account": "Verify 009",
-   "keep": "Ảnh",
-   "level": "Yếu",
-   "why": "Đã đánh dấu gom (giữ Ảnh), camp Ảnh có ad video; chưa ATC, CTR Ảnh 1.23% vs Video 0.70%",
-   "keepCamp": "22/10 PR-COW141002PNTL Image · $36.76 · 0 đơn · ROAS 0 · lãi -$37",
-   "offCamp": "22/10 COW141002PNTL-26-AI ReelFB · $32.75 · 0 đơn · $12/ngày",
-   "scale": "Chưa đơn → chưa scale"
+   "group": "Cần gom",
+   "sku": "COW211006TTBN",
+   "product": "3D Leather Mouse Pad",
+   "account": "",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video có 3 đơn (ROAS 0.78), Ảnh chưa đơn sau $14",
+   "keepCamp": "23/10 COW211006TTBN-26-AI ReelFB · $173 · 3 đơn · ROAS 0.78 · lãi -$80",
+   "offCamp": "27/10 PR-COW211006TTBN Image · $14 · 0 đơn · $12/ngày",
+   "scale": "ROAS < 1 → gom xong theo dõi, chưa scale"
   },
   {
    "group": "Cần gom",
    "sku": "OSP191002TTHN",
    "product": "LED Compact Mirror",
-   "account": "Verify 004",
+   "account": "",
    "keep": "Video",
    "level": "Chắc",
-   "why": "Video 1 đơn ROAS 1.93 vs Ảnh 0 đơn/0 ATC ($20.43)",
-   "keepCamp": "22/10 OSP191002TTHN-26-AI ReelFB · $33.00 · 1 đơn · ROAS 1.93 · lãi +$12",
-   "offCamp": "23/10 PR-OSP191002TTHN Image · $20.43 · 0 đơn · $12/ngày",
-   "scale": "Có đơn + lãi dương → sau gom tăng $12 → $25/ngày"
+   "why": "Video có 1 đơn (ROAS 0.90), Ảnh chưa đơn sau $54",
+   "keepCamp": "22/10 OSP191002TTHN-26-AI ReelFB · $71 · 1 đơn · ROAS 0.90",
+   "offCamp": "23/10 PR-OSP191002TTHN Image · $54 · 0 đơn · $12/ngày",
+   "scale": "ROAS < 1 → theo dõi"
   },
   {
    "group": "Cần gom",
-   "sku": "COW191003HUTL",
+   "sku": "GRM221002UABN",
+   "product": "Flag",
+   "account": "",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video có 1 đơn (ROAS 0.66), Ảnh chưa đơn sau $11",
+   "keepCamp": "23/10 GRM221002UABN-26-AI ReelFB · $66 · 1 đơn · ROAS 0.66",
+   "offCamp": "27/10 PR-GRM221002UABN Image · $11 · 0 đơn",
+   "scale": "ROAS < 1 → theo dõi"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM221008LIHT",
+   "product": "Kitchen Towel",
+   "account": "",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video có 1 đơn (ROAS 0.49), Ảnh chưa đơn sau $13",
+   "keepCamp": "24/10 GRM221008LIHT-26-AI ReelFB · $58 · 1 đơn · ROAS 0.49",
+   "offCamp": "27/10 PR-GRM221008LIHT Image · $13 · 0 đơn",
+   "scale": "ROAS < 1 → theo dõi"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COW201001HUTL",
    "product": "Custom Shaped Acrylic Ornament",
-   "account": "Verify 052",
+   "account": "",
    "keep": "Video",
-   "level": "Sơ bộ",
-   "why": "Chưa đơn; Video 7 ATC ($3.14/ATC) vs Ảnh 0 ATC ($7.17)",
-   "keepCamp": "23/10 COW191003HUTL-26-AI ReelFB (Verify 052) · $22.00 · 0 đơn · ROAS 0 · lãi -$22",
-   "offCamp": "24/10 PR-COW191003HUTL Image (Verify 009) · $7.17 · 0 đơn · $12/ngày",
-   "scale": "Chưa đơn → chưa scale"
-  },
-  {
-   "group": "Cần gom",
-   "sku": "XMA191001LIHN",
-   "product": "Crew Socks",
-   "account": "Verify 032",
-   "keep": "Ảnh",
-   "level": "Sơ bộ",
-   "why": "Chưa đơn; Ảnh $10.24/ATC (2 ATC) vs Video $34.05/ATC (1 ATC)",
-   "keepCamp": "23/10 PR-XMA191001LIHN Image · $20.48 · 0 đơn · ROAS 0 · lãi -$20",
-   "offCamp": "22/10 XMA191001LIHN-26-AI ReelFB · $34.05 · 0 đơn · $12/ngày",
-   "scale": "Chưa đơn → chưa scale"
-  },
-  {
-   "group": "Cần gom",
-   "sku": "XMA191001TTTX",
-   "product": "Family Acrylic Ornament",
-   "account": "Verify 032",
-   "keep": "Ảnh",
-   "level": "Yếu",
-   "why": "Chưa ATC; CTR Ảnh 1.20% vs Video 0.81% (+48%)",
-   "keepCamp": "23/10 PR-XMA191001TTTX Image · $20.89 · 0 đơn · ROAS 0 · lãi -$21",
-   "offCamp": "22/10 XMA191001TTTX -26-AI ReelFB · $34.16 · 0 đơn · $12/ngày",
-   "scale": "Chưa đơn → chưa scale"
-  },
-  {
-   "group": "Cần gom",
-   "sku": "MUC201001TYHT",
-   "product": "Tote Bag",
-   "account": "Verify 020",
-   "keep": "Video",
-   "level": "Yếu",
-   "why": "Chưa ATC; CTR Video 2.53% vs Ảnh 1.88% (+35%)",
-   "keepCamp": "23/10 MUC201001TYHT-26-AI ReelFB · $22.26 · 0 đơn · ROAS 0 · lãi -$22",
-   "offCamp": "23/10 PR-MUC201001TYHT Image · $21.09 · 0 đơn · $12/ngày",
-   "scale": "Chưa đơn → chưa scale"
-  },
-  {
-   "group": "Cần gom",
-   "sku": "GRM201002UABN",
-   "product": "Woven Pillow Cover",
-   "account": "Verify 006",
-   "keep": "Ảnh",
-   "level": "Ngang nhau",
-   "why": "Chưa ATC; CTR Video 0.86% vs Ảnh 0.77% (lệch 12%), CPC Ảnh $3.27 vs Video $4.86 → nghiêng Ảnh",
-   "keepCamp": "23/10 PR-GRM201002UABN Image · $19.61 · 0 đơn · ROAS 0 · lãi -$20",
-   "offCamp": "22/10 GRM201002UABN-26-AI ReelFB · $34.05 · 0 đơn · $12/ngày",
-   "scale": "Chưa đơn → chưa scale"
-  },
-  {
-   "group": "Cần gom",
-   "sku": "BOO211001LNHN",
-   "product": "Crew Socks",
-   "account": "Verify 002",
-   "keep": "Ảnh",
-   "level": "Ngang nhau",
-   "why": "Chưa ATC; CTR Ảnh 0.85% vs Video 0.77%, CPC $3.99 vs $5.28 → nghiêng Ảnh",
-   "keepCamp": "23/10 PR-BOO211001LNHN Image · $19.93 · 0 đơn · ROAS 0 · lãi -$20",
-   "offCamp": "23/10 BOO211001LNHN-26-AI ReelFB · $21.10 · 0 đơn · $12/ngày",
-   "scale": "Chưa đơn → chưa scale"
+   "level": "Chắc",
+   "why": "Video có 1 đơn (ROAS 1.15), Ảnh chưa đơn sau $15",
+   "keepCamp": "24/10 COW201001HUTL-26-AI ReelFB · $58 · 1 đơn · ROAS 1.15",
+   "offCamp": "27/10 PR-COW201001HUTL Image · $15 · 0 đơn",
+   "scale": "Lãi âm → theo dõi"
   },
   {
    "group": "Cần gom",
    "sku": "MOV211006PNKL",
    "product": "Leather Journal",
-   "account": "Verify 002",
+   "account": "",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video có 1 đơn (ROAS 0.75), Ảnh chưa đơn sau $47",
+   "keepCamp": "24/10 MOV211006PNKL-26-AI ReelFB · $54 · 1 đơn · ROAS 0.75",
+   "offCamp": "24/10 PR-MOV211006PNKL Image · $47 · 0 đơn",
+   "scale": "ROAS < 1 → theo dõi"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "OHO221001LGHT",
+   "product": "Sweatpants",
+   "account": "",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video có 1 đơn (ROAS 0.89), Ảnh chưa đơn sau $11",
+   "keepCamp": "24/10 OHO221001LGHT-26-AI ReelFB · $51 · 1 đơn · ROAS 0.89",
+   "offCamp": "27/10 PR-OHO221001LGHT Image · $11 · 0 đơn",
+   "scale": "ROAS < 1 → theo dõi"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP231005LIBN",
+   "product": "Custom Shaped Acrylic Ornament",
+   "account": "",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video có 1 đơn (ROAS 0.50), Ảnh chưa đơn sau $13",
+   "keepCamp": "24/10 COP231005LIBN-26-AI ReelFB · $48 · 1 đơn · ROAS 0.50",
+   "offCamp": "27/10 PR-COP231005LIBN Image · $13 · 0 đơn",
+   "scale": "ROAS < 1 → theo dõi"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM201001KHKL",
+   "product": "Pottery Mug",
+   "account": "",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video có 1 đơn (ROAS 1.74), Ảnh chưa đơn sau $12",
+   "keepCamp": "26/10 GRM201001KHKL-26-AI ReelFB · $26 · 1 đơn · ROAS 1.74",
+   "offCamp": "27/10 PR-GRM201001KHKL - SVG161026HHKL2 Image · $12 · 0 đơn",
+   "scale": "Có đơn → gom xong tăng 1 mốc"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM231002LIHT",
+   "product": "Lounge Pants",
+   "account": "",
+   "keep": "Video",
+   "level": "Chắc",
+   "why": "Video có 1 đơn (ROAS 7.84), Ảnh chưa đơn sau $12",
+   "keepCamp": "26/10 GRM231002LIHT-26-AI ReelFB · $26 · 1 đơn · ROAS 7.84",
+   "offCamp": "27/10 PR-GRM231002LIHT Image · $12 · 0 đơn",
+   "scale": "Có đơn → gom xong tăng 1 mốc"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM221004UABN",
+   "product": "Platter",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 4 ATC, Ảnh chưa ATC",
+   "keepCamp": "23/10 GRM221004UABN-26-AI ReelFB · $65 · 0 đơn",
+   "offCamp": "27/10 PR-GRM221004UABN Image · $12 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM191001NAKL",
+   "product": "Ugly Sweater",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 2 ATC, Ảnh chưa ATC",
+   "keepCamp": "24/10 GRM191001NAKL-26-AI ReelFB · $59 · 0 đơn",
+   "offCamp": "27/10 PR-GRM191001NAKL Image · $12 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM231001LIHT",
+   "product": "Apron",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 1 ATC, Ảnh chưa ATC",
+   "keepCamp": "24/10 GRM231001LIHT-26-AI ReelFB · $54 · 0 đơn",
+   "offCamp": "27/10 PR-GRM231001LIHT Image · $13 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM221001UABN",
+   "product": "Lounge Pants",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 1 ATC, Ảnh chưa ATC",
+   "keepCamp": "24/10 GRM221001UABN-26-AI ReelFB · $52 · 0 đơn",
+   "offCamp": "27/10 PR-GRM221001UABN Image · $16 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP231005AOBN",
+   "product": "Garland Banner",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 2 ATC, Ảnh chưa ATC",
+   "keepCamp": "24/10 COP231005AOBN-26-AI ReelFB · $52 · 0 đơn",
+   "offCamp": "27/10 PR-COP231005AOBN Image · $12 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "CHR231002UATP",
+   "product": "Journal Planner 2027",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 1 ATC, Ảnh chưa ATC",
+   "keepCamp": "24/10 CHR231002UATP-26-AI ReelFB · $51 · 0 đơn",
+   "offCamp": "27/10 PR-CHR231002UATP Image · $12 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP231002AOBN",
+   "product": "",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 1 ATC, Ảnh chưa ATC",
+   "keepCamp": "24/10 COP231002AOBN-26-AI ReelFB · $51 · 0 đơn",
+   "offCamp": "27/10 PR-COP231002AOBN Image · $12 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COW191003HUTL",
+   "product": "Custom Shaped Acrylic Ornament",
+   "account": "",
+   "keep": "Ảnh",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Ảnh 1 ATC, Video chưa ATC",
+   "keepCamp": "24/10 PR-COW191003HUTL Image · $49 · 0 đơn",
+   "offCamp": "27/10 COW191003HUTL-26-AI ReelFB · $13 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COW231004TTBN",
+   "product": "Leather Clipboard",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 1 ATC, Ảnh chưa ATC",
+   "keepCamp": "26/10 COW231004TTBN-26-AI ReelFB · $31 · 0 đơn",
+   "offCamp": "27/10 PR-COW231004TTBN Image · $14 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP231003TTBN",
+   "product": "Leather Clipboard",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 9 ATC, Ảnh chưa ATC",
+   "keepCamp": "26/10 COP231003TTBN-26-AI ReelFB · $29 · 0 đơn",
+   "offCamp": "27/10 PR-COP231003TTBN Image · $14 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "HIK211004PNKL",
+   "product": "Leather Journal",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 9 ATC, Ảnh chưa ATC",
+   "keepCamp": "26/10 HIK211004PNKL-26-AI ReelFB · $28 · 0 đơn",
+   "offCamp": "26/10 PR-HIK211004PNKL Image · $22 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "TRA101004AMKL",
+   "product": "Custom Shaped Metal Sign",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 3 ATC, Ảnh chưa ATC",
+   "keepCamp": "26/10 TRA101004AMKL-26-AI ReelFB · $25 · 0 đơn",
+   "offCamp": "27/10 PR-TRA101004AMKL Image · $13 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "XMA231001LNKL",
+   "product": "Placemat",
+   "account": "",
+   "keep": "Ảnh",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Ảnh 2 ATC, Video chưa ATC",
+   "keepCamp": "27/10 PR-XMA231001LNKL Image · $15 · 0 đơn",
+   "offCamp": "27/10 XMA231001LNKL-26-AI ReelFB · $13 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM221006HUKL",
+   "product": "Crewneck Cardigan",
+   "account": "",
+   "keep": "Ảnh",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Ảnh 1 ATC, Video chưa ATC",
+   "keepCamp": "27/10 PR-GRM221006HUKL Image · $12 · 0 đơn",
+   "offCamp": "26/10 GRM221006HUKL-26-AI ReelFB · $30 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "XMA251008LIKL",
+   "product": "Jingle Bell Ornament",
+   "account": "",
+   "keep": "Video",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Video 1 ATC, Ảnh chưa ATC",
+   "keepCamp": "27/10 XMA251008LIKL-26-AI ReelFB · $11 · 0 đơn",
+   "offCamp": "27/10 PR-XMA251008LIKL Image · $11 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "GRM201002KHKL",
+   "product": "Ceramic Ornament",
+   "account": "",
+   "keep": "Ảnh",
+   "level": "Sơ bộ",
+   "why": "Chưa đơn; Ảnh 2 ATC, Video chưa ATC",
+   "keepCamp": "27/10 PR-GRM201002KHKL - SVG161026HHKL2 Image · $10 · 0 đơn",
+   "offCamp": "26/10 GRM201002KHKL-26-AI ReelFB · $28 · 0 đơn",
+   "scale": "Chưa đơn → chờ thêm 1 ngày trước khi scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP231003AOBN",
+   "product": "Wooden Coaster Set",
+   "account": "",
+   "keep": "Video",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR 1.40% vs 0.86%, có thể chờ thêm 1 ngày",
+   "keepCamp": "24/10 COP231003AOBN-26-AI ReelFB · $51",
+   "offCamp": "27/10 PR-COP231003AOBN Image · $15",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP211014TTBN",
+   "product": "3D Leather Mouse Pad",
+   "account": "",
+   "keep": "Video",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR 1.49% vs 1.10%, có thể chờ thêm 1 ngày",
+   "keepCamp": "26/10 COP211014TTBN-26-AI ReelFB · $29",
+   "offCamp": "27/10 PR-COP211014TTBN Image · $14",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP231004AOBN",
+   "product": "Flat Card",
+   "account": "",
+   "keep": "Video",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR 1.68% vs 0.85%, có thể chờ thêm 1 ngày",
+   "keepCamp": "26/10 COP231004AOBN-26-AI ReelFB · $28",
+   "offCamp": "27/10 PR-COP231004AOBN Image · $14",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "OHO211003PNKL",
+   "product": "Leather Journal",
+   "account": "",
+   "keep": "Video",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR 1.40% vs 0.71%, có thể chờ thêm 1 ngày",
+   "keepCamp": "26/10 OHO211003PNKL-26-AI ReelFB · $24",
+   "offCamp": "27/10 PR-OHO211003PNKL Image · $13",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP211013TTBN",
+   "product": "Journal Planner 2027",
+   "account": "",
+   "keep": "Video",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR 1.96% vs 1.02%, có thể chờ thêm 1 ngày",
+   "keepCamp": "26/10 COP211013TTBN-26-AI ReelFB · $23",
+   "offCamp": "27/10 PR-COP211013TTBN Image · $12",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP241001AOBN",
+   "product": "Garland Banner",
+   "account": "",
+   "keep": "Video",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR 1.31% vs 0.13%, có thể chờ thêm 1 ngày",
+   "keepCamp": "26/10 COP241001AOBN-26-AI ReelFB · $21",
+   "offCamp": "27/10 PR-COP241001AOBN Image · $12",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "OHO221001LNBN",
+   "product": "Apron",
+   "account": "",
+   "keep": "Ảnh",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR 3.03% vs 2.17%, có thể chờ thêm 1 ngày",
+   "keepCamp": "27/10 PR-OHO221001LNBN Image · $14",
+   "offCamp": "26/10 OHO221001LNBN-26-AI ReelFB · $26",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "XMA211001HUTX",
+   "product": "Lounge Pants",
+   "account": "",
+   "keep": "Ảnh",
+   "level": "Yếu",
+   "why": "Chưa ATC; CTR 1.32% vs 0.92%, có thể chờ thêm 1 ngày",
+   "keepCamp": "27/10 PR-XMA211001HUTX Image · $12",
+   "offCamp": "27/10 XMA211001HUTX-26-AI ReelFB · $16",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP231001QYBN",
+   "product": "Sticker Sheets",
+   "account": "",
+   "keep": "Video",
+   "level": "Ngang nhau",
+   "why": "Chưa ATC; CTR 1.08% vs 0.91%, có thể chờ thêm 1 ngày",
+   "keepCamp": "24/10 COP231001QYBN-26-AI ReelFB · $51",
+   "offCamp": "27/10 PR-COP231001QYBN Image · $13",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP211012TTBN",
+   "product": "Leather Clipboard",
+   "account": "",
+   "keep": "Video",
+   "level": "Ngang nhau",
+   "why": "Chưa ATC; CTR 1.52% vs 1.28%, có thể chờ thêm 1 ngày",
+   "keepCamp": "26/10 COP211012TTBN-26-AI ReelFB · $31",
+   "offCamp": "27/10 PR-COP211012TTBN Image · $13",
+   "scale": "Chưa đơn → chưa scale"
+  },
+  {
+   "group": "Cần gom",
+   "sku": "COP211011TTBN",
+   "product": "Pen Holder With Clock",
+   "account": "",
    "keep": "Ảnh",
    "level": "Ngang nhau",
-   "why": "Chưa ATC; 3 click mỗi bên, CTR Ảnh 1.22% vs Video 1.09%, CPC $2.41 vs $3.55 → nghiêng Ảnh",
-   "keepCamp": "24/10 PR-MOV211006PNKL Image · $7.22 · 0 đơn · ROAS 0 · lãi -$7",
-   "offCamp": "24/10 MOV211006PNKL-26-AI ReelFB · $10.64 · 0 đơn · $12/ngày",
+   "why": "Chưa ATC; CTR 1.92% vs 1.79%, có thể chờ thêm 1 ngày",
+   "keepCamp": "27/10 PR-COP211011TTBN Image · $14",
+   "offCamp": "26/10 COP211011TTBN-26-AI ReelFB · $27",
    "scale": "Chưa đơn → chưa scale"
   }
  ],
  "ver": [
   {
-   "sku": "CHR011003GAHN",
-   "ver": "v3",
-   "pillow": "22/10 CHR011003GAHN-26-v3 ReelFB · $33.97 · 1 đơn · ROAS 0.86",
+   "sku": "SIS120902TUMT",
+   "ver": "v9",
+   "pillow": "24/10 QD-SIS120902TUMT-v9-26-AI ReelFB · $251 · 4 đơn · ROAS 3.77",
    "missing": [
-    "Camp chính 07/10 CHR011003GAHN-26-AI ReelFB · $120/ngày · v1"
-   ]
-  },
-  {
-   "sku": "MMR121002DPTL",
-   "ver": "v3",
-   "pillow": "24/10 PT-MMR121002DPTL-v3-26-AI ReelFB · $9.40 · 0 đơn · ROAS 0",
-   "missing": [
-    "Camp chính 15/10 MMR121002DPTL-26-AI ReelFB · $2379/ngày · v1, v2",
-    "Camp scale 16/10 MMR121002DPTL-26-AI ReelFB - auto WW · $1379/ngày · v1"
-   ]
-  },
-  {
-   "sku": "MMR121002DPTL",
-   "ver": "v2",
-   "pillow": "22/10 TH-MMR121002DPTL-26-AI-v2 ReelFB · $33.34 · 1 đơn · ROAS 1.12",
-   "missing": [
-    "Camp scale 16/10 MMR121002DPTL-26-AI ReelFB - auto WW · $1379/ngày · v1"
+    "Camp scale 10/7 SIS120902TUMT TT WW · $300/ngày · v1, v7, v10"
    ]
   },
   {
    "sku": "FRI280902AMHN",
    "ver": "v5, v6",
-   "pillow": "23/10 TH-FRI280902AMHN-26-AI-v5 ReelFB (v4,v6) · $66.88 · 1 đơn · ROAS 1.33; 23/10 QD-FRI280902AMHN-26-v6-AI ReelFB · $20.58 · 0 đơn",
+   "pillow": "23/10 TH-FRI280902AMHN-26-AI-v5 ReelFB (v4,v6) · $210 · 3 đơn · ROAS 0.99",
    "missing": [
-    "Camp chính 03/10 FRI280902AMHN-26-AI ReelFB · $2000/ngày · v1, v2, v3, v4",
-    "Camp scale 11/10 PR-FRI280902AMHN Image - auto WW · $1197/ngày · v1, v2, v3, v4",
-    "Camp scale 12/10 PR-FRI280902AMHN Image - auto AU · $300/ngày · v1, v2, v3, v4"
+    "Camp chính 03/10 FRI280902AMHN-26-AI ReelFB · $2000/ngày · v1–v4",
+    "Camp scale 11/10 PR-FRI280902AMHN Image - auto WW · $1000/ngày · v1–v4",
+    "Camp scale 12/10 PR-FRI280902AMHN Image - auto AU · $200/ngày · v1–v4"
    ]
   },
   {
-   "sku": "SIS120902TUMT",
-   "ver": "v9",
-   "pillow": "24/10 QD-SIS120902TUMT-v9-26-AI ReelFB · $47.95 · 1 đơn · ROAS 3.45",
+   "sku": "FRI280902AMHN",
+   "ver": "v7",
+   "pillow": "26/10 PT-FRI280902AMHN-26-v7-AI ReelFB · $21 · 0 đơn",
    "missing": [
-    "Camp scale 10/7 SIS120902TUMT TT WW · $300/ngày · v1–v7"
+    "Camp chính 03/10 FRI280902AMHN-26-AI ReelFB · $2000/ngày",
+    "Camp scale auto WW $1000/ngày, auto AU $200/ngày"
    ]
   },
   {
-   "sku": "MUC121001LNTX",
-   "ver": "v3",
-   "pillow": "19/10 TH-MUC121001LNTX-26-AI-v3 ReelFB · $69.27 · 2 đơn · ROAS 1.37",
+   "sku": "SIB041004HUTL",
+   "ver": "v2–v5",
+   "pillow": "21/10 SIB041004HUTL-25-v3 ReelFB · $242 · 1 đơn · ROAS 0.74",
    "missing": [
-    "Camp chính 16/10 MUC121001LNTX-AI ReelFB · $100/ngày · v1, v2"
+    "Camp chính 10/09 SIB041004HUTL site MO Test Content TOF · $250/ngày · v1"
    ]
   },
   {
-   "sku": "COW020902APTL",
-   "ver": "v2",
-   "pillow": "23/10 QD-COW020902APTL-v2-26-AI ReelFB · $20.66 · 1 đơn · ROAS 10.15",
+   "sku": "FRI180603PAHN",
+   "ver": "v33",
+   "pillow": "22/10 QD-fri180603pahn-26-v33-AI ReelFB · $76 · 1 đơn · ROAS 0.63",
    "missing": [
-    "Camp chính 08/09 COW020902APTL-26-AI ReelFB · $500/ngày · v1"
+    "Camp scale 4/7 FRI180603PAHN-v7(v8-MD) ReelFB TT WW · $200/ngày",
+    "Camp scale 2/7 FRI180603PAHN ReelFB TT WW (ko có US) · $210/ngày"
    ]
   },
   {
    "sku": "SCH280901HYTX",
    "ver": "v4",
-   "pillow": "24/10 ME-SCH280901HYTX-v4-26-AI ReelFB · $9.56 · 0 đơn · ROAS 0",
+   "pillow": "24/10 ME-SCH280901HYTX-v4-26-AI ReelFB · $57 · 0 đơn",
    "missing": [
-    "Camp chính 06/10 SCH280901HYTX-26-AI ReelFB · $600/ngày · v1, v2, v3"
+    "Camp chính 06/10 SCH280901HYTX-26-AI ReelFB · $200/ngày · v1–v3"
    ]
   },
   {
    "sku": "FRI151002LNHN",
    "ver": "v2",
-   "pillow": "24/10 QD-FRI151002LNHN-26-v2-AI ReelFB · $9.38 · 0 đơn · ROAS 0",
+   "pillow": "24/10 QD-FRI151002LNHN-26-v2-AI ReelFB · $49 · 1 đơn · ROAS 1.06",
    "missing": [
-    "Camp chính 21/10 FRI151002LNHN-26-AI ReelFB · $600/ngày · v1"
+    "Camp chính 21/10 FRI151002LNHN-26-AI ReelFB · $300/ngày · v1"
    ]
   },
   {
-   "sku": "CHR170401PAHN",
-   "ver": "v2",
-   "pillow": "22/10 PT-CHR170401PAHN-26-v2-AI-LNG ReelFB · $33.85 · 0 đơn · ROAS 0",
+   "sku": "MUC121001LNTX",
+   "ver": "v4",
+   "pillow": "26/10 MM-MUC121001LNTX-26-v4-AI ReelFB · $27 · 1 đơn · ROAS 1.69",
    "missing": [
-    "Camp chính 24/04 CHR170401PAHN-26-AI ReelFB · $300/ngày · v1",
-    "Camp scale 29/09 CHR170401PAHN-26-AI ReelFB - TT WW · $150/ngày · v1"
+    "Camp chính 16/10 MUC121001LNTX-AI ReelFB · $200/ngày · v1, v2"
+   ]
+  },
+  {
+   "sku": "OHO080901DKHT",
+   "ver": "v4",
+   "pillow": "26/10 MM-OHO080901DKHT-26-v4-AI ReelFB · $26 · 0 đơn",
+   "missing": [
+    "Camp chính 21/09 QD-OHO080901DKHT-26-v2-AI ReelFB · $1000/ngày · v1–v3"
+   ]
+  },
+  {
+   "sku": "FRI020905AMHN",
+   "ver": "v11",
+   "pillow": "26/10 TH-FRI020905AMHN-26-AI-v11 ReelFB · $22 · 0 đơn",
+   "missing": [
+    "Camp chính 11/09 FRI020905AMHN-26-v2 ReelFB · $300/ngày",
+    "Camp scale 22/09 FRI020905AMHN-26-v2 ReelFB - TR WW · $1000/ngày"
+   ]
+  },
+  {
+   "sku": "COW020902APTL",
+   "ver": "v2",
+   "pillow": "27/10 QD-COW020902APTL-v2-26-AI ReelFB · $14 · 0 đơn",
+   "missing": [
+    "Camp chính 08/10 COW020902APTL-26-AI ReelFB - TR US · $500/ngày · v1",
+    "Camp scale 03/10 COW020902APTL-26-AI ReelFB - TR WW · $500/ngày · v1"
+   ]
+  },
+  {
+   "sku": "MMR121002DPTL",
+   "ver": "v4",
+   "pillow": "27/10 MM-MMR121002DPTL-V4-26-AI-LNG ReelFB · $14 · 0 đơn",
+   "missing": [
+    "Camp chính 15/10 MMR121002DPTL-26-AI ReelFB · $1500/ngày · v1–v3"
+   ]
+  },
+  {
+   "sku": "XMA110903LITP",
+   "ver": "v13",
+   "pillow": "27/10 MM-XMA110903LITP-26-AI-v13 ReelFB · $13 · 0 đơn",
+   "missing": [
+    "Camp chính 13/09 XMA110903LITP v1 v2 v3 ReelFB · $2000/ngày · v1–v12"
+   ]
+  },
+  {
+   "sku": "MUC241101XLHT",
+   "ver": "v4",
+   "pillow": "27/10 TH-MUC241101XLHT-26-v4 ReelFB · $9 · 0 đơn",
+   "missing": [
+    "Camp chính 26/12 MUC241101XLHT-25-AI ReelFB · $500/ngày · v1–v3",
+    "Camp scale 05/01 …- AU · $100/ngày · v1",
+    "Camp scale 06/01 …- TT WW · $103/ngày · v1–v3"
    ]
   }
  ],
  "both": [
   {
    "sku": "OSP191004TTHN",
-   "product": "LED Compact Mirror",
-   "img": "1 đơn · ROAS 1.41",
-   "vid": "1 đơn · ROAS 3.16",
+   "product": "",
+   "img": "5 đơn",
+   "vid": "1 đơn",
+   "low": false
+  },
+  {
+   "sku": "XMA191001LIHN",
+   "product": "",
+   "img": "2 đơn",
+   "vid": "3 đơn",
+   "low": false
+  },
+  {
+   "sku": "GRM201002NAKL",
+   "product": "",
+   "img": "1 đơn",
+   "vid": "1 đơn",
+   "low": false
+  },
+  {
+   "sku": "GRM221009LIHT",
+   "product": "",
+   "img": "1 đơn",
+   "vid": "1 đơn",
+   "low": false
+  },
+  {
+   "sku": "GRM231005UABN",
+   "product": "",
+   "img": "1 đơn",
+   "vid": "1 đơn",
    "low": false
   }
  ],
  "notes": [
-  "Data admin 15/10–25/10 (giờ US), lấy 16:45 VN 25/10; số liệu theo Shopify.",
-  "Insight theo ad chưa có spend → chưa tính được 'ver không cắn tiền'.",
-  "Đã gom/skip: COW161001NAHN, XMA171004GATL (Minh đánh dấu skip trên WEB).",
-  "BOO121003NATX: không còn cặp Ảnh + Video ACTIVE → coi như đã gom, bỏ khỏi danh sách.",
-  "BOO211004AMHN: camp Ảnh bật lại và đã chứa ad video → vào nhóm Gom dở (MỚI).",
-  "GRM151001LIHT: v3 đã có trong camp chính 19/10 → bỏ mục ver v3.",
-  "Ver thiếu đếm theo SKU·ver: FRI280902AMHN 2, MMR121002DPTL 2 → tổng 11.",
-  "Chrome (Windows) — không đụng Edge."
+  "Data admin 18/10–28/10 (giờ US), quét tay lúc 11h20 VN 28/10 trên Chrome; số liệu theo Shopify; chỉ code của Minh.",
+  "Phần lớn camp Ảnh mới lên 27/10 (~$10–15), chưa tới 1 CPA → nhóm Sơ bộ/Yếu nên chờ thêm 1 ngày; nhóm Chắc nhiều đơn (OHO201001LIBN, XMA201001CBKL) gom ngay.",
+  "Ver mới trong camp chính nhưng không cắn tiền (<10% spend): MMR121002DPTL (v1 $13.6k, v2 $135, v3 $6), SCH280901HYTX (v2 $152, v3 $2), MUC121001LNTX (v2 $58/$1.7k), CHR011003GAHN (v3 $0), OHO080901DKHT (v3 $42), MUC241101XLHT (v2 $24, v3 $189) → cân nhắc làm ver mới.",
+  "40 SKU đã đánh dấu gom/skip trước đây đều thuộc đợt cũ, không có trong danh sách này.",
+  "Chrome (Windows) — không dùng Edge."
  ]
 }
